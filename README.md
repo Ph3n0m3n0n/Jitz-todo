@@ -1,11 +1,16 @@
-# Simple Todo List
+<h2> Jitz Todo Admin List <h2>
 
-The Meteor Tutorial app.
+<img src="http://www.bentsenpalm.com/wp-content/uploads/2016/08/Jitterz-Coffee-Bar.jpg" alt="Jitterz Logo">
 
-Use it to share a single todo list with your friends. The list updates on everyone's screen in real time, and you can make tasks private if you don't want others to see them.
+This app is intended to be used along with Jitterz web app.
+The technologies that were used to create this app are:
 
-Learn how to build this app by following the [Meteor Tutorial](https://www.meteor.com/tutorials/react/creating-an-app).
+<ul>
+	<li>MongoDB</li>
+	<li>Meteor</li>
+	<li>React</li>
+	<li>Node.js</li>
+</ul>
 
-Read more about building apps with Meteor in the [Meteor Guide](http://guide.meteor.com).
 
-![screenshot](screenshot.png)
+
