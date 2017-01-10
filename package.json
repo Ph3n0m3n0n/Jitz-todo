@@ -1,5 +1,5 @@
 {
-  "name": "simple-todos",
+  "name": "Jitz Admin Todo",
   "private": true,
   "scripts": {
     "start": "meteor run"
